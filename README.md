@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFPB. Desenvolvo apli
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos
 
 ### [Honest Market — gestão de estoque](https://github.com/brunoYves22/estoquemercado)
 
@@ -18,6 +18,14 @@ Aplicação web para acompanhar produtos, lotes, compras, retiradas, validade e 
 **Stack do projeto:** React, TypeScript, Vite, Supabase (PostgreSQL e Edge Functions), TanStack Query e Tailwind CSS.
 
 [Veja o código, as funcionalidades e as telas →](https://github.com/brunoYves22/estoquemercado#readme)
+
+### [Gestão comercial](https://github.com/brunoYves22/gestaonathalia-portfolio)
+
+Sistema para organizar clientes, produtos, vendas, estoque e relatórios. A cópia pública permite conhecer a estrutura e executar a aplicação com um banco de teste próprio.
+
+### [Vendas e metas](https://github.com/brunoYves22/metasbruno-portfolio)
+
+Aplicação para registrar vendas, calcular comissões e acompanhar metas diárias e mensais, com histórico de desempenho e fechamentos.
 
 ## 🛠️ Tecnologias
 
@@ -32,7 +40,14 @@ Aplicação web para acompanhar produtos, lotes, compras, retiradas, validade e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="38" height="38" />
 </p>
 
-**Em estudo:** Python, Java, programação orientada a objetos, SQL e modelagem de dados.
+**Em estudo**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="38" height="38" />
+</p>
+
+Python, Java, programação orientada a objetos, SQL e modelagem de dados.
 
 ## 📊 Atividade no GitHub
 
