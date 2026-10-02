@@ -1,33 +1,58 @@
-# Bruno Yves Monteiro de Paula 👋
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Bruno Yves — Desenvolvimento web e implantação de sistemas" width="100%" />
+</p>
 
-**Desenvolvimento web · Implantação de sistemas · João Pessoa, PB**
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-yves-monteiro-de-paula-923aa93b4/"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn — vamos conversar" /></a>
+  <a href="https://github.com/brunoYves22?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explorar_projetos-222b3c?style=flat-square&logo=github&logoColor=white" alt="Explorar projetos" /></a>
+</p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFPB. Desenvolvo aplicações para problemas de gestão e operação e trabalho com implantação, treinamento e suporte de sistemas. Gosto de entender o processo de quem usa a ferramenta e transformar tarefas complexas em fluxos mais claros.
+### Sistemas que ajudam na rotina de quem usa.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-yves-monteiro-de-paula-923aa93b4/)
-[![Projeto em destaque](https://img.shields.io/badge/Projeto-Honest%20Market-243B53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoYves22/estoquemercado)
+Sou **Bruno Yves Monteiro de Paula**, estudante de Análise e Desenvolvimento de Sistemas no **IFPB**. Desenvolvo aplicações de gestão e trabalho com implantação, treinamento e suporte de sistemas. Meu interesse está em conectar código, processos e uma boa experiência de uso.
 
----
+| Desenvolvimento | Implantação e suporte |
+| :--- | :--- |
+| Aplicações web, interfaces, integrações e organização de dados. | Entendimento de processos, orientação de usuários e acompanhamento da operação. |
 
-## 🚀 Projetos
+## Projetos em destaque
 
-### [Honest Market — gestão de estoque](https://github.com/brunoYves22/estoquemercado)
+<table>
+<tr>
+<td width="38%"><a href="https://github.com/brunoYves22/estoquemercado"><img src="https://raw.githubusercontent.com/brunoYves22/estoquemercado/main/Dashboard.png" alt="Painel do Honest Market" width="300" /></a></td>
+<td width="62%">
+<h3><a href="https://github.com/brunoYves22/estoquemercado">Honest Market</a></h3>
+<p><strong>Gestão de estoque e movimentações</strong></p>
+<p>Produtos, lotes, validade, compras e retiradas. Leitura de códigos de barras e alertas de reposição para apoiar a operação.</p>
+<p><sub>React · TypeScript · Supabase · TanStack Query</sub></p>
+<a href="https://github.com/brunoYves22/estoquemercado#readme">Código e telas →</a>
+</td>
+</tr>
+<tr>
+<td width="38%"><a href="https://github.com/brunoYves22/gestaonathalia-portfolio"><img src="https://raw.githubusercontent.com/brunoYves22/gestaonathalia-portfolio/main/docs/screenshots/01-painel.png" alt="Painel de gestão comercial com dados fictícios" width="300" /></a></td>
+<td width="62%">
+<h3><a href="https://github.com/brunoYves22/gestaonathalia-portfolio">Gestão comercial</a></h3>
+<p><strong>Da venda ao acompanhamento do negócio</strong></p>
+<p>Clientes, catálogo, estoque na loja e em transporte, caixa e relatórios com indicadores de vendas e lucro.</p>
+<p><sub>React · TypeScript · Tailwind CSS · Supabase</sub></p>
+<a href="https://github.com/brunoYves22/gestaonathalia-portfolio#telas-do-sistema">Código e telas →</a>
+</td>
+</tr>
+<tr>
+<td width="38%"><a href="https://github.com/brunoYves22/metasbruno-portfolio"><img src="https://raw.githubusercontent.com/brunoYves22/metasbruno-portfolio/main/docs/screenshots/01-dashboard.png" alt="Dashboard de vendas e metas com valores fictícios" width="300" /></a></td>
+<td width="62%">
+<h3><a href="https://github.com/brunoYves22/metasbruno-portfolio">Vendas e metas</a></h3>
+<p><strong>Comissões e evolução de resultados</strong></p>
+<p>Registro de vendas, cálculo de comissões e acompanhamento de metas diárias e mensais, com histórico e fechamentos.</p>
+<p><sub>React · TypeScript · Tailwind CSS · Supabase</sub></p>
+<a href="https://github.com/brunoYves22/metasbruno-portfolio#telas-do-sistema">Código e telas →</a>
+</td>
+</tr>
+</table>
 
-Aplicação web para acompanhar produtos, lotes, compras, retiradas, validade e alertas de reposição. Inclui leitura de código de barras, histórico de movimentações e apoio ao cadastro de produtos.
+<sub>As prévias de Gestão comercial e Vendas e metas usam dados fictícios para demonstração.</sub>
 
-**Stack do projeto:** React, TypeScript, Vite, Supabase (PostgreSQL e Edge Functions), TanStack Query e Tailwind CSS.
-
-[Veja o código, as funcionalidades e as telas →](https://github.com/brunoYves22/estoquemercado#readme)
-
-### [Gestão comercial](https://github.com/brunoYves22/gestaonathalia-portfolio)
-
-Sistema para organizar clientes, produtos, vendas, estoque e relatórios. A cópia pública permite conhecer a estrutura e executar a aplicação com um banco de teste próprio.
-
-### [Vendas e metas](https://github.com/brunoYves22/metasbruno-portfolio)
-
-Aplicação para registrar vendas, calcular comissões e acompanhar metas diárias e mensais, com histórico de desempenho e fechamentos.
-
-## 🛠️ Tecnologias
+## Tecnologias e aprendizado
 
 **Uso em projetos**
 
@@ -50,7 +75,9 @@ Aplicação para registrar vendas, calcular comissões e acompanhar metas diári
 
 Python, Java, programação orientada a objetos, SQL e modelagem de dados.
 
-## 📊 Atividade no GitHub
+
+<details>
+<summary><strong>Ver atividade e linguagens no GitHub</strong></summary>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=brunoYves22&custom_title=Bruno%20Yves%20%7C%20GitHub&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas públicas de Bruno Yves no GitHub" height="170" />
@@ -59,6 +86,9 @@ Python, Java, programação orientada a objetos, SQL e modelagem de dados.
 
 > Os cartões são gerados por um serviço externo e refletem os repositórios públicos; a distribuição de linguagens não mede proficiência.
 
-## 📫 Contato
 
-[Vamos conversar no LinkedIn](https://www.linkedin.com/in/bruno-yves-monteiro-de-paula-923aa93b4/).
+</details>
+
+---
+
+**Vamos conversar?** Estou construindo minha trajetória em tecnologia, com interesse em desenvolvimento e implantação de sistemas. [Conecte-se comigo no LinkedIn →](https://www.linkedin.com/in/bruno-yves-monteiro-de-paula-923aa93b4/)
