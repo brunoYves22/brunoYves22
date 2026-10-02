@@ -45,6 +45,7 @@ Aplicação para registrar vendas, calcular comissões e acompanhar metas diári
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="38" height="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="SQL (MySQL)" title="SQL (MySQL)" width="38" height="38" />
 </p>
 
 Python, Java, programação orientada a objetos, SQL e modelagem de dados.
