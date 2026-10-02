@@ -52,7 +52,7 @@ Python, Java, programação orientada a objetos, SQL e modelagem de dados.
 ## 📊 Atividade no GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=brunoYves22&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas públicas de Bruno Yves no GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoYves22&custom_title=Bruno%20Yves%20%7C%20GitHub&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas públicas de Bruno Yves no GitHub" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoYves22&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais presentes nos repositórios públicos de Bruno Yves" height="170" />
 </p>
 
