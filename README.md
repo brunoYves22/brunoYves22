@@ -17,7 +17,7 @@ Sou **Bruno Yves Monteiro de Paula**, estudante de Análise e Desenvolvimento de
 
 ### IA aplicada ao desenvolvimento
 
-Uso ferramentas de inteligência artificial, como **ChatGPT, Codex e Lovable**, para apoiar a prototipação, o desenvolvimento de aplicações e a melhoria de interfaces. Combino esse apoio com o estudo dos fundamentos de programação e a revisão das soluções para atender às necessidades de quem usa o sistema.
+Uso ferramentas de inteligência artificial, como **Codex,Claude,Obsidian,Lovable**, para apoiar a prototipação, o desenvolvimento de aplicações e a melhoria de interfaces. Combino esse apoio com o estudo dos fundamentos de programação e a revisão das soluções para atender às necessidades de quem usa o sistema.
 
 ## Projetos em destaque
 
